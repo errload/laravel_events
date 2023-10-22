@@ -1,0 +1,28 @@
+.sidebar li .nav-link {
+    background: #007bff;
+    color: #ffffff;
+}
+
+.logout {
+    margin-top: 6px;
+    font-size: 18px;
+}
+
+.admin__logo {
+    font-size: 32px;
+    margin-left: 18px;
+}
+
+.date_event {
+    margin-top: -20px;
+    color: grey;
+}
+
+.users {
+    display: flex;
+    flex-direction: row;
+}
+
+.users__btn {
+    margin-top: 20px;
+}
